@@ -1,0 +1,21 @@
+body {
+  background: #f4946e;
+}
+h1,
+p {
+  text-align: center;
+}
+.latte {
+  max-width: 70%;
+  height: min-content;
+  border-radius: 10px;
+  display: block;
+  margin-left: 150px;
+}
+footer {
+  text-align: center;
+}
+footer a {
+  margin: 0 10px;
+  color: brown;
+}
